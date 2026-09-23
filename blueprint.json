@@ -13,7 +13,7 @@
       "step": "installPlugin",
       "pluginData": {
         "resource": "url",
-        "url": "https://mcjessco.github.io/VL-preview/videolab-content.zip?v=0.1.12"
+        "url": "https://mcjessco.github.io/VL-preview/videolab-content.zip?v=0.1.13"
       },
       "options": {
         "activate": true
@@ -23,7 +23,7 @@
       "step": "installTheme",
       "themeData": {
         "resource": "url",
-        "url": "https://mcjessco.github.io/VL-preview/videolab-theme.zip?v=0.1.12"
+        "url": "https://mcjessco.github.io/VL-preview/videolab-theme.zip?v=0.1.13"
       },
       "options": {
         "activate": true
